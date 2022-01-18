@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "423268667197",
+    "firebase_url": "https://prolific-predicts-default-rtdb.firebaseio.com",
+    "project_id": "prolific-predicts",
+    "storage_bucket": "prolific-predicts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423268667197:android:b82d77122eb606c2c57f54",
+        "android_client_info": {
+          "package_name": "com.mully.prolificsoccerpredictions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423268667197-h4mk330g4prf25os8fl3marhuh3gpp6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd97MmZ-Pva1jEWoseaWPPX-Vx3opxTqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423268667197-h4mk330g4prf25os8fl3marhuh3gpp6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423268667197:android:2046ea635342ea95c57f54",
+        "android_client_info": {
+          "package_name": "com.prolific.mullyadm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423268667197-h4mk330g4prf25os8fl3marhuh3gpp6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd97MmZ-Pva1jEWoseaWPPX-Vx3opxTqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423268667197-h4mk330g4prf25os8fl3marhuh3gpp6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
